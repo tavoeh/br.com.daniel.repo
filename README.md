@@ -1,4 +1,4 @@
-br.com.daniel.repo
+br.com.repo
 ==================
 
-projectos Daniel Advogados
+projectos Brasil
